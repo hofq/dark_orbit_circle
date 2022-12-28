@@ -1,0 +1,1 @@
+Add a Circle Overlay that can easily be closed
